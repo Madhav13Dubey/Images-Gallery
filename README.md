@@ -1,9 +1,13 @@
-# 🌟 Web Showcase: Image Gallery & Registration Form
+# 🌟Web Showcase of following :
+#  Image Gallery 
+#  Registration Form 
+#  LinkedIn Post Clone
 
-Welcome to this simple and elegant HTML-based web project that includes:
+Welcome to this simple and elegant HTML CSS -based web minor project that includes:
 
 1. 🖼️ A categorized **Image Gallery**
 2. 📝 A detailed **Student Registration Form**
+3. 💼 A professional **LinkedIn Post UI Clone**
 
 ---
 
@@ -19,10 +23,10 @@ An organized, responsive table displaying categorized logos of:
 
 | Shopping Websites | IT Companies | DSA Practice Sites |
 |-------------------|--------------|--------------------|
-| ![Flipkart](FlipkartLogo.png) Flipkart | ![Google](Google.png) Google | ![LeetCode](LeetCode_logo.png) LeetCode |
-| ![Amazon](AmazonShoppingLogo.jpeg) Amazon | ![Amazon](AmazonLogo.jpeg) Amazon | ![Codeforces](codeforces_logo.png) Codeforces |
-| ![Myntra](MyntraLogo.png) Myntra | ![Microsoft](MicrosoftLogo.png) Microsoft | ![InterviewBit](InterviewBit.png) InterviewBit |
-| ![Ajio](AjioLogo.jpeg) Ajio | ![IBM](IBMLogo.png) IBM | ![HackerRank](HackerRank_Logo.png) HackerRank |
+| ![Flipkart](images/FlipkartLogo.png) Flipkart | ![Google](images/Google.png) Google | ![LeetCode](images/LeetCode_logo.png) LeetCode |
+| ![Amazon](images/AmazonShoppingLogo.jpeg) Amazon | ![Amazon](images/AmazonLogo.jpeg) Amazon | ![Codeforces](images/codeforces_logo.png) Codeforces |
+| ![Myntra](images/MyntraLogo.png) Myntra | ![Microsoft](images/MicrosoftLogo.png) Microsoft | ![InterviewBit](images/InterviewBit.png) InterviewBit |
+| ![Ajio](images/AjioLogo.jpeg) Ajio | ![IBM](images/IBMLogo.png) IBM | ![HackerRank](images/HackerRank_Logo.png) HackerRank |
 
 > 📁 The gallery is built using pure HTML and CSS.
 
@@ -32,7 +36,7 @@ An organized, responsive table displaying categorized logos of:
 
 📄 A comprehensive and user-friendly registration form titled:
 
-## ✨ *"Student Onboarding Form"*
+## ✨ *"Placewit Student Onboarding Form"*
 
 ### Form Features:
 
@@ -44,44 +48,51 @@ An organized, responsive table displaying categorized logos of:
 > The form is accessible, structured in a clean table format, and designed for beginner-level web form understanding.
 
 ---
-## 🌐 Live Preview
 
-> 📁 *Currently not hosted. You can open the `index.html` file in your browser to see it in action!*
+### 3️⃣ LinkedIn Profile Post Clone
+
+📢 **"Motivational LinkedIn Post UI – Inspired by Real Success Stories"**
+
+This section is a visually accurate clone of a professional LinkedIn post layout. It showcases:
+
+- 👤 A profile section with photo, name, and tagline
+- 📝 A motivational post paragraph sharing a real journey (B.Tech to Google)
+- 🖼️ An image section featuring a corporate workplace
+- 🔁 Social reaction icons like Like, Comment, Repost, Send
+- 💬 Clean action buttons for interactivity
+
+> Styled using an external stylesheet (`index.css`), this component demonstrates modern HTML structure and responsive UI capability.
 
 ---
 
-## 🛠️ How to Use
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/Madhav13Dubey/Images-Gallery.git
-   
 ## 🗂️ Project Structure
 
-```plaintext
 Images-Gallery/
 │
 ├── index.html                  # Image Gallery page
 ├── style.css                   # CSS for the gallery
 │
-├── registration_form.html      # Student registration form page
-├── Registration_form.css       # CSS for the registration form
+├── registration_form.html      # Student registration form
+├── Registration_form.css       # CSS for the form
 │
-├── README.md                   # Project documentation
+├── linkedin/
+│   ├── linkedin_post.html      # LinkedIn style post page
+│   ├── index.css               # CSS for LinkedIn post
+│   ├── Profile.jpg             # Profile picture
+│   └── Google_India.jpg        # Post image
 │
-└── /images                     # Folder containing all the logos
-    ├── FlipkartLogo.png
-    ├── AmazonShoppingLogo.jpeg
-    ├── MyntraLogo.png
-    ├── AjioLogo.jpeg
-    ├── Google.png
-    ├── AmazonLogo.jpeg
-    ├── MicrosoftLogo.png
-    ├── IBMLogo.png
-    ├── LeetCode_logo.png
-    ├── codeforces_logo.png
-    ├── InterviewBit.png
-    ├── HackerRank_Logo.png
-
-
-
+├── images/                     # Logos used in the gallery
+│   ├── FlipkartLogo.png
+│   ├── AmazonShoppingLogo.jpeg
+│   ├── MyntraLogo.png
+│   ├── AjioLogo.jpeg
+│   ├── Google.png
+│   ├── AmazonLogo.jpeg
+│   ├── MicrosoftLogo.png
+│   ├── IBMLogo.png
+│   ├── LeetCode_logo.png
+│   ├── codeforces_logo.png
+│   ├── InterviewBit.png
+│   ├── HackerRank_Logo.png
+│
+└── README.md                   # Project documentation
