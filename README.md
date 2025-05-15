@@ -1,9 +1,9 @@
-# 🌟Web Showcase of following :
-#  Image Gallery 
-#  Registration Form 
-#  LinkedIn Post Clone
+# 🌟 Web Showcase of Following:
+- 🖼️ Image Gallery  
+- 📝 Registration Form  
+- 💼 LinkedIn Post Clone
 
-Welcome to this simple and elegant HTML CSS -based web minor project that includes:
+Welcome to this simple and elegant **HTML-CSS-based** minor web development project. It showcases foundational frontend skills through the following key components:
 
 1. 🖼️ A categorized **Image Gallery**
 2. 📝 A detailed **Student Registration Form**
@@ -21,14 +21,16 @@ An organized, responsive table displaying categorized logos of:
 - 💼 Top IT Companies
 - 💻 DSA Practice Platforms
 
+The gallery consists of three main categories:
 
-| Shopping Websites | IT Companies | DSA Practice Sites |
-|-------------------|--------------|--------------------|
+| 🛒 Shopping Websites | 💼 Top IT Companies | 💻 DSA Practice Platforms |
+|---------------------|--------------------|---------------------------|
 | ![Flipkart](FlipkartLogo.png) Flipkart | ![Google](Google.png) Google | ![LeetCode](LeetCode_logo.png) LeetCode |
-| ![Amazon](AmazonShoppingLogo.jpeg) Amazon | ![Amazon](AmazonLogo.jpeg) Amazon | ![Codeforces](codeforces_logo.png) Codeforces |
+| ![Amazon Shopping](AmazonShoppingLogo.jpeg) Amazon | ![Amazon](AmazonLogo.jpeg) Amazon | ![Codeforces](codeforces_logo.png) Codeforces |
 | ![Myntra](MyntraLogo.png) Myntra | ![Microsoft](MicrosoftLogo.png) Microsoft | ![InterviewBit](InterviewBit.png) InterviewBit |
 | ![Ajio](AjioLogo.jpeg) Ajio | ![IBM](IBMLogo.png) IBM | ![HackerRank](HackerRank_Logo.png) HackerRank |
 
+---
 > 📁 The gallery is built using pure HTML and CSS.
 
 ---
@@ -37,7 +39,7 @@ An organized, responsive table displaying categorized logos of:
 
 📄 A comprehensive and user-friendly registration form titled:
 
-## ✨ *"Placewit Student Onboarding Form"*
+## ✨ *"Student Onboarding Form"*
 
 ### Form Features:
 
@@ -68,6 +70,7 @@ This section is a visually accurate clone of a professional LinkedIn post layout
 
 ## 🗂️ Project Structure
 
+```plaintext
 Images-Gallery/
 │
 ├── index.html                  # Image Gallery page
