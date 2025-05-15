@@ -1,0 +1,99 @@
+body {
+    font-family: Arial, sans-serif;
+    background: #f0f2f5;
+    margin: 0;
+    padding: 20px;
+  }
+  
+  .post-container {
+    background: #fff;
+    border-radius: 8px;
+    padding: 16px;
+    max-width: 600px;
+    margin: auto;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+  }
+  
+  .user-info {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+  }
+  
+  .profile-pic {
+    width: 60px;
+    height: 60px;
+    border-radius: 50%;
+    object-fit: cover;
+    margin-right: 12px;
+  }
+  
+  .user-details {
+    flex: 1;
+  }
+  
+  .user-details h2 {
+    margin: 0;
+    font-size: 20px;
+  }
+  
+  .user-details p {
+    margin: 2px 0;
+    font-size: 14px;
+    color: #666;
+  }
+  
+  .user-details span {
+    font-size: 12px;
+    color: #999;
+  }
+  
+  .connect-btn {
+    background: #0a66c2;
+    color: white;
+    border: none;
+    padding: 6px 12px;
+    border-radius: 4px;
+    cursor: pointer;
+  }
+  
+  .post-text {
+    margin: 16px 0;
+    font-size: 15px;
+  }
+  
+  .post-image img {
+    width: 100%;
+    border-radius: 8px;
+    margin-top: 10px;
+  }
+  
+  .reactions {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-top: 10px;
+    font-size: 14px;
+    color: #666;
+  }
+  
+  .reaction-icons span {
+    margin-right: 4px;
+  }
+  
+  .actions {
+    display: flex;
+    justify-content: space-around;
+    margin-top: 10px;
+    border-top: 1px solid #ddd;
+    padding-top: 10px;
+  }
+  
+  .actions button {
+    background: none;
+    border: none;
+    font-size: 14px;
+    color: #555;
+    cursor: pointer;
+  }
+  
