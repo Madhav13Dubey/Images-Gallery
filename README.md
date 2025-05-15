@@ -21,12 +21,13 @@ An organized, responsive table displaying categorized logos of:
 - 💼 Top IT Companies
 - 💻 DSA Practice Platforms
 
+
 | Shopping Websites | IT Companies | DSA Practice Sites |
 |-------------------|--------------|--------------------|
-| ![Flipkart](images/FlipkartLogo.png) Flipkart | ![Google](images/Google.png) Google | ![LeetCode](images/LeetCode_logo.png) LeetCode |
-| ![Amazon](images/AmazonShoppingLogo.jpeg) Amazon | ![Amazon](images/AmazonLogo.jpeg) Amazon | ![Codeforces](images/codeforces_logo.png) Codeforces |
-| ![Myntra](images/MyntraLogo.png) Myntra | ![Microsoft](images/MicrosoftLogo.png) Microsoft | ![InterviewBit](images/InterviewBit.png) InterviewBit |
-| ![Ajio](images/AjioLogo.jpeg) Ajio | ![IBM](images/IBMLogo.png) IBM | ![HackerRank](images/HackerRank_Logo.png) HackerRank |
+| ![Flipkart](FlipkartLogo.png) Flipkart | ![Google](Google.png) Google | ![LeetCode](LeetCode_logo.png) LeetCode |
+| ![Amazon](AmazonShoppingLogo.jpeg) Amazon | ![Amazon](AmazonLogo.jpeg) Amazon | ![Codeforces](codeforces_logo.png) Codeforces |
+| ![Myntra](MyntraLogo.png) Myntra | ![Microsoft](MicrosoftLogo.png) Microsoft | ![InterviewBit](InterviewBit.png) InterviewBit |
+| ![Ajio](AjioLogo.jpeg) Ajio | ![IBM](IBMLogo.png) IBM | ![HackerRank](HackerRank_Logo.png) HackerRank |
 
 > 📁 The gallery is built using pure HTML and CSS.
 
